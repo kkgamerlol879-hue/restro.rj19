@@ -1,0 +1,16 @@
+[
+    {
+        "admin_id": 1,
+        "password": "admin123",
+        "mobile_number": "9876543210",
+        "batch_number": "BATCH001",
+        "experience_year": 5
+    },
+    {
+        "admin_id": 2,
+        "password": "admin456",
+        "mobile_number": "9876543211",
+        "batch_number": "BATCH002",
+        "experience_year": 3
+    }
+]

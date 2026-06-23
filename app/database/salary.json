@@ -1,0 +1,12 @@
+[
+    {
+        "admin_id": 1,
+        "experience_years": 5,
+        "base_salary": 50000,
+        "performance_level": 1,
+        "performance_bonus": 0,
+        "total_salary": 50000,
+        "created_date": "2026-06-23",
+        "last_updated": "2026-06-23"
+    }
+]

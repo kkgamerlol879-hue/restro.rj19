@@ -1,0 +1,16 @@
+[
+    {
+        "customer_id": 1,
+        "date": "2026-06-23",
+        "time": "13:39:26",
+        "bill_amount": 32.38,
+        "payment_method": "Mobile Payment"
+    },
+    {
+        "customer_id": 2,
+        "date": "2026-06-23",
+        "time": "15:30:56",
+        "bill_amount": 129.5,
+        "payment_method": "Cash"
+    }
+]

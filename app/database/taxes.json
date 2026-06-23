@@ -1,0 +1,27 @@
+[
+    {
+        "tax_id": "TAX001",
+        "tax_name": "GST (Goods and Service Tax)",
+        "percentage": 18
+    },
+    {
+        "tax_id": "TAX002",
+        "tax_name": "Service Tax",
+        "percentage": 5
+    },
+    {
+        "tax_id": "TAX003",
+        "tax_name": "Delivery Tax",
+        "percentage": 3
+    },
+    {
+        "tax_id": "TAX004",
+        "tax_name": "Processing Fee",
+        "percentage": 2
+    },
+    {
+        "tax_id": "TAX005",
+        "tax_name": "Packaging Tax",
+        "percentage": 1.5
+    }
+]
